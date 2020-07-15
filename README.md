@@ -10,7 +10,7 @@ Collaborators TEAM-10
 5.Akhila Reddy
 6.Divya Tata
 7.Hrithvik Aluri
-8.Sanna Sowkat
+8.Sanna Showkat
 9.Saurav kumar Sharma
 10.Irfan Khan Ameer
 11.Shreya Dwivedi
