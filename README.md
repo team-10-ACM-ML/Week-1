@@ -3,7 +3,7 @@ Week-1 Assignment
 
 Collaborators TEAM-10
 
-1.Tamiziyan
+1.Tamizhiniyan S R
 2.Guna Gokul
 3.Ayush Gaur
 4.Ayush Paul
