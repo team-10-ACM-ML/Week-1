@@ -12,6 +12,6 @@ Collaborators TEAM-10
 7.Hrithvik Aluri, 
 8.Sanna Showkat, 
 9.Saurav Kumar Sharma, 
-10.Irfan Khan Ameer, 
+10.Shaik Irfan Ameer, 
 11.Shreya Dwivedi, 
 12.Madhu Priyanka
